@@ -67,7 +67,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments 🚀
 
-- [Dakota L. MArtinez](https://github.com/javitocor/React-Devise-Tutorial)
+- [Dakota L. Martinez](https://github.com/javitocor/React-Devise-Tutorial)
 
 
 ## 📝 License
